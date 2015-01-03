@@ -1,0 +1,2 @@
+javac JMemoryGame.java
+java JMemoryGame
